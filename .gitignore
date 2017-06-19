@@ -6,7 +6,7 @@ tmp/
 /nbproject/
 
 #
-# Ignore sub-sites:
+# Ignore demo_sites:
 #   If they contain anything important, it will be in a separate repo
 #
-sub-sites/
+demo_sites/
