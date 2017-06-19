@@ -1,0 +1,12 @@
+#
+# Documentation is here: http://git-scm.com/docs/gitignore
+#
+tmp/
+*.swp
+/nbproject/
+
+#
+# Ignore sub-sites:
+#   If they contain anything important, it will be in a separate repo
+#
+sub-sites/
